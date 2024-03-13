@@ -13,7 +13,7 @@ class Vector{
         }
 };
 ///Battlefield
-class BattleField{
+class BAttleField{
 public:
     
 };
